@@ -1,0 +1,57 @@
+<h1 class="col-xs-10 col-xs-offset-2 col-md-12 col-md-offset-0 circle-bundle activity">Activité</h1>
+<div class="clearfix"></div>
+<div class="elearning-activity">
+	<legend>Associez la période à la description correspondante.</legend>
+	<label for="multipleChoices1">Les peuples autochtones étaient souvent considérés comme un obstacle au développement colonial, qu’il fallait éliminer puisque les autorités coloniales de ce qui est maintenant le Canada voulaient davantage de terres.</label> <select id="multipleChoices1" class="multipleChoices">
+		<option selected disabled value="">Choisissez une période</option>
+		<option value="wa">Contact</option>
+		<option value="ra">Élimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="wa">Engagement, guérison et négociation</option>
+		<option value="wa">Réconciliation</option>
+	</select> <span class="feedback"></span><!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices2">Le gouvernement du Canada a commencé à reconnaître les torts causés aux peuples autochtones.</label> <select id="multipleChoices2" class="multipleChoices">
+		<option selected disabled value="">Choisissez une période</option>
+		<option value="wa">Contact</option>
+		<option value="wa">Élimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="ra">Engagement, guérison et négociation</option>
+		<option value="wa">Réconciliation</option>
+	</select> <span class="feedback"></span><!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices3">Cette période de l’histoire ne fait que commencer. De nombreuses excuses ont été présentées aux peuples autochtones pour le mal qui leur a été fait. Il est temps d’agir et de renouveler la relation entre le gouvernement du Canada et les peuples autochtones.</label> <select id="multipleChoices3" class="multipleChoices">
+		<option selected disabled value="">Choisissez une période</option>
+		<option value="wa">Contact</option>
+		<option value="wa">Élimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="wa">Engagement, guérison et négociation</option>
+		<option value="ra">Réconciliation</option>
+	</select> <span class="feedback"></span><!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices4">Le gouvernement du Canada a pris des mesures ciblées pour assimiler les peuples autochtones dans la société, entre autres par le truchement des pensionnats indiens, du déplacement des Métis, de la rafle des années 1960 et bien plus.</label> <select id="multipleChoices4" class="multipleChoices">
+		<option selected disabled value="">Choisissez une période</option>
+		<option value="wa">Contact</option>
+		<option value="wa">Élimination</option>
+		<option value="ra">Assimilation</option>
+		<option value="wa">Engagement, guérison et négociation</option>
+		<option value="wa">Réconciliation</option>
+	</select> <span class="feedback"></span><!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices5">Les premiers Européens sont arrivés dans les régions de l’Est. Certains ont établi des partenariats avec des peuples autochtones, puisqu’ils dépendaient de leurs connaissances traditionnelles pour survivre. La doctrine de la découverte et la notion de <em>terra nullius</em>, les ambitions économiques de l’Europe et la propagation des conflits européens ont bouleversé cette relation. </label><select id="multipleChoices5" class="multipleChoices">
+		<option selected disabled value="">Choisissez une période</option>
+		<option value="ra">Contact</option>
+		<option value="wa">Élimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="wa">Engagement, guérison et négociation</option>
+		<option value="wa">Réconciliation</option>
+	</select> <span class="feedback"></span><!-- <button>Validate</button> -->
+	<hr>
+</div>
+<script>
+$(".multipleChoices").on("blur", function() {
+	if (this.value == "ra") {
+		$(this).next(".feedback").removeClass('qs-wrong').addClass("qs-right").html(" <strong> Bonne réponse.</strong>");
+	} else $(this).next(".feedback").removeClass('qs-right').addClass("qs-wrong").html(" <strong> Veuillez tenter une autre réponse.</strong>");
+})
+</script>

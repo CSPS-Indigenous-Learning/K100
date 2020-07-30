@@ -1,0 +1,62 @@
+<h1 class="col-xs-10 col-xs-offset-2 col-md-12 col-md-offset-0 circle-bundle activity">Activity</h1>
+<div class="clearfix"></div>
+<div class="elearning-activity">
+	<legend>Match the period to its brief description</legend>
+	<label for="multipleChoices1">Indigenous peoples were often viewed as a barrier to colonial development that needed to be eliminated because Colonial authorities in what is now Canada wanted more land.</label> <select id="multipleChoices1" class="multipleChoices">
+		<option selected disabled value="">Choose a term</option>
+		<option value="wa">Contact</option>
+		<option value="ra">Elimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="wa">Engagement, healing and negotiation</option>
+		<option value="wa">Reconciliation</option>
+	</select> <span class="feedback"></span>
+	<!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices2">The Government of Canada started acknowledging the harm that has been made to Indigenous peoples.</label> <select id="multipleChoices2" class="multipleChoices">
+		<option selected disabled value="">Choose a term</option>
+		<option value="wa">Contact</option>
+		<option value="wa">Elimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="ra">Engagement, healing and negotiation</option>
+		<option value="wa">Reconciliation</option>
+	</select> <span class="feedback"></span>
+	<!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices3">This period of history is just beginning. Many apologies have been made to Indigenous peoples for the harm that has been done. It’s time to take action and renew the relationship between the Government of Canada and Indigenous peoples.</label> <select id="multipleChoices3" class="multipleChoices">
+		<option selected disabled value="">Choose a term</option>
+		<option value="wa">Contact</option>
+		<option value="wa">Elimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="wa">Engagement, healing and negotiation</option>
+		<option value="ra">Reconciliation</option>
+	</select> <span class="feedback"></span>
+	<!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices4">The Government of Canada undertook specific actions to assimilate Indigenous peoples into mainstream society which included Residential Schools, displacement of Métis, the Sixties Scoop and so much more.</label> <select id="multipleChoices4" class="multipleChoices">
+		<option selected disabled value="">Choose a term</option>
+		<option value="wa">Contact</option>
+		<option value="wa">Elimination</option>
+		<option value="ra">Assimilation</option>
+		<option value="wa">Engagement, healing and negotiation</option>
+		<option value="wa">Reconciliation</option>
+	</select> <span class="feedback"></span>
+	<!-- <button>Validate</button> -->
+	<hr>
+	<label for="multipleChoices5"> Europeans first arrived in the eastern regions. They established partnerships with Indigenous peoples, whose traditional knowledge they depended on for survival. The Doctrine of Discovery and <em>terra nullius</em>, European economic desires, and the spread of European conflict changed this relationship.</label> <select id="multipleChoices5" class="multipleChoices">
+		<option selected disabled value="">Choose a term</option>
+		<option value="ra">Contact</option>
+		<option value="wa">Elimination</option>
+		<option value="wa">Assimilation</option>
+		<option value="wa">Engagement, healing and negotiation</option>
+		<option value="wa">Reconciliation</option>
+	</select> <span class="feedback"></span>
+	<!-- <button>Validate</button> -->
+</div>
+<script>
+$(".multipleChoices").on("blur", function() {
+	if (this.value == "ra") {
+		$(this).next(".feedback").removeClass('qs-wrong').addClass("qs-right").html(" <strong role='alert'> Correct response.</strong>");
+	} else $(this).next(".feedback").removeClass('qs-right').addClass("qs-wrong").html(" <strong role='alert'> Please try another answer.</strong>");
+})
+</script>
+<!--end activity-->

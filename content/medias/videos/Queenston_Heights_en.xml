@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="4.003s" id="p0" end="6.873s">General Brock is dead!<br />Americans hold the Heights.</p>
+      <p begin="14.046s" id="p1" end="17.483s">We are but 100 men.<br />They are thousands!</p>
+      <p begin="17.483s" id="p2" end="21.654s">Our future was determined<br />by our oath, not the Americans.</p>
+      <p begin="21.654s" id="p3" end="24.19s">This land does not belong to them.</p>
+      <p begin="27.793s" id="p4" end="29.796s">Comrades and brothers,</p>
+      <p begin="29.796s" id="p5" end="31.797s">Remember the fame of ancient warriors.</p>
+      <p begin="33.533s" id="p6" end="36.202s">Let not their numbers frighten you.</p>
+      <p begin="36.202s" id="p7" end="39.806s">I know in my heart, before the sun falls</p>
+      <p begin="39.806s" id="p8" end="43.743s">Behind these hills, our enemy will have fallen before you!</p>
+      <p begin="43.743s" id="p9" end="46.513s">How long can we hold them?</p>
+      <p begin="46.513s" id="p10" end="49.715s">At the Battle of Queenston Heights,</p>
+      <p begin="49.715s" id="p11" end="53.453s">80 Grand River warriors, including John Norton and John Brant,</p>
+      <p begin="53.453s" id="p12" end="58.024s">Held off the Americans for hours to take back the Heights.</p>
+    </div>
+  </body>
+</tt>

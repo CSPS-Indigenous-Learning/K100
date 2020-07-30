@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="HOU" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1705.3 436.3" style="enable-background:new 0 0 1705.3 436.3;" xml:space="preserve">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Asap|Roboto');
+	.st0{fill:#D3D3D4;}
+	.st1{fill:#0D82B5;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Asap-Bold',ASAP,Sans-Serif;}
+	.st4{font-size:38.0699px;}
+	.st5{fill:#1C7308;}
+	.st6{fill:#AA3D00;}
+	.st7{clip-path:url(#SVGID_2_);}
+	.st8{fill:none;stroke:#231F20;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,4;}
+	.st9{fill:none;stroke:#231F20;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st10{clip-path:url(#SVGID_4_);}
+</style>
+<title>Infographics-Housing</title>
+<g>
+	<path class="st0" d="M159.2,218.3l89.3,132.4C175.3,399.8,76.1,380.1,27,306.8C-21.8,233.9-2.6,135.2,69.9,85.9
+		c27.5-18.6,56.2-27.3,89.3-27.3L159.2,218.3L159.2,218.3z"/>
+	<path class="st1" d="M159.2,218.3V58.6c88.2,0,159.7,71.5,159.7,159.7l0,0c0,55-24.8,101.6-70.4,132.4L159.2,218.3z"/>
+	<circle class="st2" cx="158.4" cy="219.3" r="80.2"/>
+	<text transform="matrix(1 0 0 1 114.9086 235.5248)" class="st1 st3 st4">40.6%</text>
+</g>
+<g>
+	<path class="st0" d="M852.7,218.2l158.2-19.4c10.7,87.4-51.4,166.9-138.8,177.6S705.2,325,694.5,237.6
+		C683.8,150.2,745.9,70.7,833.3,60c6.4-0.8,12.9-1.2,19.4-1.2V218.2z"/>
+	<path class="st5" d="M852.7,218.2V58.7c81.4,0,148.3,59.3,158.2,140L852.7,218.2z"/>
+	<circle class="st2" cx="852.7" cy="218.8" r="80.2"/>
+	<text transform="matrix(1 0 0 1 809.1475 235.0332)" class="st5 st3 st4">23.1%</text>
+</g>
+<g>
+	<path class="st0" d="M1545.8,218.2l79.7-138.1c76.2,44,102.4,141.5,58.4,217.8c-44,76.2-141.5,102.4-217.8,58.4
+		s-102.4-141.5-58.4-217.8l0,0c28.9-50,80.3-79.7,138.1-79.7L1545.8,218.2L1545.8,218.2z"/>
+	<path class="st6" d="M1545.8,218.2V58.7c30.3,0,53.5,6.2,79.7,21.4L1545.8,218.2z"/>
+	<circle class="st2" cx="1545.8" cy="218.7" r="80.2"/>
+	<text transform="matrix(1 0 0 1 1509.3105 235.0105)" class="st6 st3 st4">8.6%</text>
+</g>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="567.8" y="19.6" width="2" height="397"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st7">
+			<line class="st8" x1="568.8" y1="24.6" x2="568.8" y2="413.6"/>
+			<path class="st9" d="M568.8,415.6L568.8,415.6 M568.8,20.6L568.8,20.6"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="1135.5" y="19.6" width="2" height="397"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st10">
+			<line class="st8" x1="1136.5" y1="24.6" x2="1136.5" y2="413.6"/>
+			<path class="st9" d="M1136.5,415.6L1136.5,415.6 M1136.5,20.6L1136.5,20.6"/>
+		</g>
+	</g>
+</g>
+</svg>

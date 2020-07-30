@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.733s" id="p0" end="3.503s">-En cri, "Traité" se dit:<br />"Naskumituwin".</p>
+      <p begin="3.536s" id="p1" end="5.271s">Une entente verbale.</p>
+      <p begin="7.506s" id="p2" end="10.043s">Et nos accords étaient<br />toujours oraux.</p>
+      <p begin="13.245s" id="p3" end="17.05s">Pour George Spence,<br />l'essentiel du Traité</p>
+      <p begin="17.083s" id="p4" end="20.119s">était Wiichihiiwaawin,<br />pour s'aider les uns les autres.</p>
+      <p begin="20.152s" id="p5" end="22.755s">-Les commissaires...</p>
+      <p begin="22.788s" id="p6" end="25.158s">-Il était là pour<br />la création du Traité 9</p>
+      <p begin="25.191s" id="p7" end="26.759s">où on a dit aux Cris que:</p>
+      <p begin="26.792s" id="p8" end="29.562s">-rivière coulera<br />et le soleil brillera.</p>
+      <p begin="29.595s" id="p9" end="31.798s">Nous respecterons cette entente.</p>
+      <p begin="31.831s" id="p10" end="34.6s">-Les Cris ont apposé leur marque<br />parce qu'on leur avait assuré</p>
+      <p begin="34.633s" id="p11" end="36.269s">que les terres<br />seraient partagées.</p>
+      <p begin="36.302s" id="p12" end="38.204s">Et qu'ils pourraient<br />toujours récolter</p>
+      <p begin="38.237s" id="p13" end="40.54s">ce dont ils auraient besoin.</p>
+      <p begin="43.209s" id="p14" end="45.745s">George Spence était<br />mon arrière-grand-père.</p>
+      <p begin="45.778s" id="p15" end="48.748s">Dans sa vie, il a vu plusieurs<br />promesses de traité</p>
+      <p begin="48.781s" id="p16" end="51.584s">qui ne se sont jamais réalisées.</p>
+      <p begin="51.617s" id="p17" end="55.154s">-Les Traités étaient essentiels<br />à la création du Canada.</p>
+      <p begin="55.187s" id="p18" end="57.59s">Les Premières Nations<br />luttent encore</p>
+      <p begin="57.623s" id="p19" end="59.559s">pour que les Traités<br />soient respectés.</p>
+    </div>
+  </body>
+</tt>

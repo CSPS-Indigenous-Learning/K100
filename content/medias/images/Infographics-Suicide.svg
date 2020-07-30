@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1737.2 415" style="enable-background:new 0 0 1737.2 415;" xml:space="preserve">
+	<style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Asap|Roboto');
+	.st0 {
+		clip-path: url(#SVGID_2_);
+	}
+	.st1 {
+		fill: none;
+		stroke: #231F20;
+		stroke-width: 2;
+		stroke-linecap: round;
+		stroke-linejoin: round;
+		stroke-dasharray: 0, 4;
+	}
+	.st2 {
+		fill: none;
+		stroke: #231F20;
+		stroke-width: 2;
+		stroke-linecap: round;
+		stroke-linejoin: round;
+	}
+	.st3 {
+		fill: #D3D3D4;
+	}
+	.st4 {
+		fill: #CC8B66;
+	}
+	.st5 {
+		fill: #77AB6B;
+	}
+	.st6 {
+		fill: #6EB4D3;
+	}
+	.st7 {
+		fill: #FFFFFF;
+	}
+	.st8 {
+		fill: #AA3D00;
+	}
+	.st9 {
+		font-family: 'Asap-Bold', Asap, Sans-Se;
+	}
+	.st10 {
+		font-size: 42.3961px;
+	}
+	.st11 {
+		fill: #0D82B5;
+	}
+	.st12 {
+		fill: #3E2043;
+	}
+	.st13 {
+		font-size: 42.3957px;
+	}
+	.st15 {
+		fill: #1C7308;
+	}
+	#Fra, #Eng {
+		display: none
+	}
+	#Fra:target, #Eng:target {
+		display: inline
+	}
+	</style>
+	<g>
+		<title>Infographics-Suicide</title>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="867.6" y="8" width="2" height="397" />
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_" style="overflow:visible;" />
+				</clipPath>
+				<g class="st0">
+					<line class="st1" x1="868.6" y1="13" x2="868.6" y2="402" />
+					<path class="st2" d="M868.6,404L868.6,404 M868.6,9L868.6,9" />
+				</g>
+			</g>
+		</g>
+		<path class="st3" d="M363.9,207.9l-17.1,176.7c-97.6-9.4-169-96.2-159.6-193.8l0,0c0.5-5.7,1.6-12.8,2.8-18.4L363.9,207.9z" />
+		<path class="st3" d="M363.9,207.9L476.7,345c-37.9,31.2-81.1,44.4-130,39.6L363.9,207.9z" />
+		<path class="st4" d="M363.9,207.9l172.6-41.4c16.3,67.9-5.9,134-59.8,178.4L363.9,207.9z" />
+		<path class="st5" d="M363.9,207.9l-1.4-177.5c83.7-0.7,154.6,54.8,174.1,136.2L363.9,207.9z" />
+		<path class="st6" d="M363.9,207.9L190,172.4C207,88.6,277,31,362.5,30.3L363.9,207.9z" />
+		<circle class="st7" cx="364.6" cy="207.9" r="89.3" />
+		<text transform="matrix(1 0 0 1 574.0132 272.7817)" class="st8 st9 st10">Métis 19.6%</text>
+		<text transform="matrix(1 0 0 1 0 95.5351)" class="st11 st9 st10">Inuit 23.5%</text>
+		<g>
+			<path class="st12" d="M1559.7,207.5l-136-114.2c34.8-41.5,81.9-63.4,136-63.4V207.5z" />
+			<path class="st3" d="M1559.7,207.5V30c98,0,177.5,79.5,177.5,177.5S1657.7,385,1559.7,385s-177.5-79.5-177.5-177.5
+			c0-43.9,13.3-80.5,41.5-114.1L1559.7,207.5z" />
+			<circle class="st7" cx="1559.7" cy="207.5" r="89.3" />
+			<text transform="matrix(1 0 0 1 1511.3115 227.1582)" class="st12 st9 st13">13.8%</text>
+		</g>
+	</g>
+	<g id="Fra" class="st14">
+		<text transform="matrix(1 0 0 1 483.7368 65.5351)" class="st15 st9 st10">Premières</text>
+		<text transform="matrix(1 0 0 1 513.7368 116.4351)" class="st15 st9 st10">Nations 24.0%</text>
+	</g>
+	<g id="Eng" class="st14">
+		<text transform="matrix(1 0 0 1 483.7368 65.5351)" class="st15 st9 st10">First Nations 24.0%</text>
+	</g>
+</svg>

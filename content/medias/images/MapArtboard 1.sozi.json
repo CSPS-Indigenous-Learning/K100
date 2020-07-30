@@ -1,0 +1,2449 @@
+{
+  "aspectWidth": 4,
+  "aspectHeight": 3,
+  "enableKeyboardZoom": false,
+  "enableKeyboardRotation": false,
+  "enableKeyboardNavigation": true,
+  "enableMouseTranslation": false,
+  "enableMouseZoom": false,
+  "enableMouseRotation": false,
+  "enableMouseNavigation": true,
+  "frames": [
+    {
+      "frameId": "_Canada",
+      "title": "Carte du Canada",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Layer_1",
+          "outlineElementAuto": true,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtDakota",
+          "outlineElementId": "txtDakota",
+          "outlineElementAuto": true,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Layer_1",
+          "outlineElementAuto": true,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 377.5898742675781,
+          "cy": 282.4386901855469,
+          "width": 633.23974609375,
+          "height": 530.4824829101562,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 4669.534763502535,
+          "cy": 793.1065620045716,
+          "width": 14544.599953639397,
+          "height": 17294.48958476205,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 27580.486629052266,
+          "clipYOffset": -39584.3143718366,
+          "clipWidthFactor": 0.18549747048903875,
+          "clipHeightFactor": 0.10798650168728909
+        },
+        "__sozi_auto__": {
+          "cx": 377.5898742675781,
+          "cy": 282.4386901855469,
+          "width": 633.23974609375,
+          "height": 530.4824829101562,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "Texts": {
+          "deltaX": 4136.583652662691,
+          "deltaY": 726.274622307306,
+          "widthFactor": 263.25067789392574,
+          "heightFactor": 1649.5489320786455,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_DakotaSioux",
+      "title": "Accord sur l'autonomie gouvernementale de la Nation des Dakota de Sioux Valley (2014)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Canada_1_",
+          "outlineElementId": "DakotaSioux",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtDakota",
+          "outlineElementId": "txtDakota",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "North_Quebec",
+          "outlineElementId": "DakotaSioux",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 255.05871548603415,
+          "cy": 431.9080445992499,
+          "width": 87.33720653701465,
+          "height": 65.50290490276099,
+          "opacity": 1,
+          "angle": 8.924458937746493,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999993,
+          "clipHeightFactor": 0.9999999999999994
+        },
+        "Texts": {
+          "cx": 522.0581125396992,
+          "cy": 80.37718555188772,
+          "width": 100.97041867712517,
+          "height": 81.02056333297459,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 12.189771888910915,
+          "clipYOffset": -47.360218409232814,
+          "clipWidthFactor": 0.6645021645021645,
+          "clipHeightFactor": 0.2727272727272727
+        },
+        "__sozi_auto__": {
+          "cx": 255.05871548603415,
+          "cy": 431.9080445992499,
+          "width": 87.33720653701465,
+          "height": 65.50290490276099,
+          "opacity": 1,
+          "angle": 8.924458937746493,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999993,
+          "clipHeightFactor": 0.9999999999999994
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -125.57174716045023,
+          "deltaY": 149.04696061487488,
+          "widthFactor": 0.1393072562339467,
+          "heightFactor": 0.1235063851083876,
+          "deltaAngle": 8.924458937746493
+        },
+        "Texts": {
+          "deltaX": -10.89299830014454,
+          "deltaY": 13.545245854622095,
+          "widthFactor": 1.8275188900837134,
+          "heightFactor": 7.727743745619037,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Carcross",
+      "title": "Entente définitive de la Premère nation de Carcross / Tagish (2005)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Carcross",
+          "outlineElementId": "Carcross",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtCarcross",
+          "outlineElementId": "txtCarcross",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Carcross",
+          "outlineElementId": "Carcross",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 103.94999694824219,
+          "cy": 249.45001220703125,
+          "width": 20.700004577636737,
+          "height": 17.500015258789077,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 683.8758208828449,
+          "cy": 72.04929349895035,
+          "width": 95.86827289120878,
+          "height": 95.68299736202182,
+          "opacity": 1,
+          "angle": -25.746158449005378,
+          "clipped": true,
+          "clipXOffset": -6.210637302983887,
+          "clipYOffset": -10.64417395654893,
+          "clipWidthFactor": 0.6861471861471862,
+          "clipHeightFactor": 0.6493506493506493
+        },
+        "__sozi_auto__": {
+          "cx": 103.94999694824219,
+          "cy": 249.45001220703125,
+          "width": 20.700004577636737,
+          "height": 17.500015258789077,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 0,
+          "deltaY": 0,
+          "widthFactor": 1.0000000000000009,
+          "heightFactor": 1.0000000000000009,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 5.2551543789386415,
+          "deltaY": 5.591331462817536,
+          "widthFactor": 1.8024587147583317,
+          "heightFactor": 13.885967871132419,
+          "deltaAngle": -25.746158449005378
+        },
+        "__sozi_auto__": {
+          "deltaX": 0,
+          "deltaY": 0,
+          "widthFactor": 1.0000000000000009,
+          "heightFactor": 1.0000000000000009,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Kluane",
+      "title": "Entente définitive de la Première nation de Kluane (2004)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Kluane",
+          "outlineElementId": "Kluane",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtKluane",
+          "outlineElementId": "txtKluane",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "North_Quebec",
+          "outlineElementId": "Kluane",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 85.15985290656737,
+          "cy": 219.58459410753133,
+          "width": 48.16111456902726,
+          "height": 36.12083592677045,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999996,
+          "clipHeightFactor": 0.9999999999999993
+        },
+        "Texts": {
+          "cx": 1227.6710878563028,
+          "cy": 63.348108172760845,
+          "width": 74.78490713437427,
+          "height": 62.27533785944737,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -3.1347059774089137,
+          "clipYOffset": 17.1943566274758,
+          "clipWidthFactor": 0.711038961038961,
+          "clipHeightFactor": 0.35353535353535354
+        },
+        "__sozi_auto__": {
+          "cx": 85.15985290656737,
+          "cy": 219.58459410753133,
+          "width": 48.16111456902719,
+          "height": 36.1208359267704,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999998,
+          "clipHeightFactor": 0.9999999999999997
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -1.190153196948259,
+          "deltaY": 1.0346063145625806,
+          "widthFactor": 1.8595023834614595,
+          "heightFactor": 1.2161898868110248,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 0.9241396141153473,
+          "deltaY": -3.5926572080985295,
+          "widthFactor": 1.69304352904137,
+          "heightFactor": 9.037690755112543,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Salmon",
+      "title": "Entente définitive de la Première nation de Little Salmon / Carmacks (1997)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Selkirk",
+          "outlineElementId": "Salmon",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtSalmon",
+          "outlineElementId": "txtSalmon",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Salmon",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 113.95416704193265,
+          "cy": 227.0718380822867,
+          "width": 43.33786737351237,
+          "height": 32.50340053013428,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999925,
+          "clipHeightFactor": 0.9999999999999991
+        },
+        "Texts": {
+          "cx": 1694.7303092804495,
+          "cy": 59.25182061071368,
+          "width": 110.49737562561383,
+          "height": 92.0342869286309,
+          "opacity": 1,
+          "angle": -10,
+          "clipped": true,
+          "clipXOffset": 2.6614219677410653,
+          "clipYOffset": 13.53122049840377,
+          "clipWidthFactor": 0.6525974025974026,
+          "clipHeightFactor": 0.4603174603174603
+        },
+        "__sozi_auto__": {
+          "cx": 113.95416704193265,
+          "cy": 227.0718380822867,
+          "width": 43.33786737351227,
+          "height": 32.5034005301342,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999991,
+          "clipHeightFactor": 0.9999999999999948
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -4.945834483946257,
+          "deltaY": 5.771850289317939,
+          "widthFactor": 0.9066498871681274,
+          "heightFactor": 1.343115893760277,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -3.0504524383004537,
+          "deltaY": -7.233538581180852,
+          "widthFactor": 1.9269297111823664,
+          "heightFactor": 13.356449803701537,
+          "deltaAngle": -10
+        }
+      }
+    },
+    {
+      "frameId": "_Nacho",
+      "title": "Entente définitive de la Premère nation des Nacho Nyak Dun",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Nacho",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtNacho",
+          "outlineElementId": "txtNacho",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Nacho",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 132.89999389648438,
+          "cy": 206.35000610351562,
+          "width": 50.400009155273466,
+          "height": 54.099990844726605,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 606.5982640579628,
+          "cy": 66.6172519054802,
+          "width": 98.976110624737,
+          "height": 107.6128318494645,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -0.2688658070142848,
+          "clipYOffset": 10.72231667876679,
+          "clipWidthFactor": 0.5984848484848484,
+          "clipHeightFactor": 0.2251082251082251
+        },
+        "__sozi_auto__": {
+          "cx": 132.89999389648438,
+          "cy": 206.35000610351562,
+          "width": 50.400009155273466,
+          "height": 54.099990844726605,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 37.09999084472656,
+          "deltaY": -189.44998168945312,
+          "widthFactor": 7.4117710417159905,
+          "heightFactor": 4.226555738607784,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 0.2114232376502514,
+          "deltaY": 0.6258883800895774,
+          "widthFactor": 1.8608904465285454,
+          "heightFactor": 15.617281719650176,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 37.09999084472656,
+          "deltaY": -189.44998168945312,
+          "widthFactor": 7.4117710417159905,
+          "heightFactor": 4.226555738607784,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_GwichinVuntut",
+      "title": "Entente définitive de la Première nation des Gwich'in Vuntut (1992)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "GwichinVuntut",
+          "outlineElementId": "GwichinVuntut",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtGwichinVuntut",
+          "outlineElementId": "txtGwichinVuntut",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "GwichinVuntut",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 158.71255663149242,
+          "cy": 192.17358452536442,
+          "width": 77.76299102783203,
+          "height": 58.32224327087405,
+          "opacity": 1,
+          "angle": 20,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 818.8762500470808,
+          "cy": 69.25845793226486,
+          "width": 100.14549152268697,
+          "height": 108.88425370211924,
+          "opacity": 1,
+          "angle": -15,
+          "clipped": true,
+          "clipXOffset": 9.08284831592143,
+          "clipYOffset": 6.83815661981709,
+          "clipWidthFactor": 0.7110389610389611,
+          "clipHeightFactor": 0.36507936507936506
+        },
+        "__sozi_auto__": {
+          "cx": 158.71255663149242,
+          "cy": 192.17358452536442,
+          "width": 77.76299102783206,
+          "height": 58.322243270874054,
+          "opacity": 1,
+          "angle": 20,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -5.4374372649919565,
+          "deltaY": -0.8764185263933939,
+          "widthFactor": 2.6722685736488496,
+          "heightFactor": 1.1025000000000005,
+          "deltaAngle": 20
+        },
+        "Texts": {
+          "deltaX": -3.8611156755754337,
+          "deltaY": 2.3174941871476733,
+          "widthFactor": 1.882876456360742,
+          "heightFactor": 15.801796455636351,
+          "deltaAngle": -15
+        },
+        "__sozi_auto__": {
+          "deltaX": 62.912553579734606,
+          "deltaY": -203.62640326760433,
+          "widthFactor": 11.435741673015153,
+          "heightFactor": 4.556418737527748,
+          "deltaAngle": 20
+        }
+      }
+    },
+    {
+      "frameId": "_Champagne",
+      "title": "Entente définitive des Premières nations de Champagne et de Aishihik (1995)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "KwanlinDun",
+          "outlineElementId": "Champagne",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtChampagne",
+          "outlineElementId": "txtChampagne",
+          "outlineElementAuto": true,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Champagne",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 97.5,
+          "cy": 235.89999389648438,
+          "width": 24.80000305175782,
+          "height": 23.400009155273445,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 148.7415551784884,
+          "cy": 68.02170667272148,
+          "width": 82.40327166091379,
+          "height": 89.65310113210057,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999996,
+          "clipHeightFactor": 0.15867944621938226
+        },
+        "__sozi_auto__": {
+          "cx": 97.5,
+          "cy": 235.89999389648438,
+          "width": 24.800003051757802,
+          "height": 23.400009155273434,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -14.900001525878906,
+          "deltaY": -5.5,
+          "widthFactor": 1.4761903896894206,
+          "heightFactor": 1.4625005722045903,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -0.7513952609647276,
+          "deltaY": 1.0810404739910098,
+          "widthFactor": 1.4041026055107781,
+          "heightFactor": 13.010880889919358,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Trondek",
+      "title": "Entente définitive des Tr&apos;ondëk Hwëch&apos;in (1998)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "KwanlinDun",
+          "outlineElementId": "Trondek",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtTrondek",
+          "outlineElementId": "txtTrondek",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Trondek",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 114.94999694824219,
+          "cy": 193.60000610351562,
+          "width": 39.899993896484396,
+          "height": 36.000000000000014,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1474.1433221324285,
+          "cy": 67.37257283500216,
+          "width": 66.94638010141853,
+          "height": 72.81554498457817,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999991,
+          "clipHeightFactor": 0.27121771217712154
+        },
+        "__sozi_auto__": {
+          "cx": 114.94999694824219,
+          "cy": 193.60000610351562,
+          "width": 39.89999389648436,
+          "height": 36,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 2.5499954223632812,
+          "deltaY": -47.79998779296875,
+          "widthFactor": 2.3749992052715485,
+          "heightFactor": 2.250000000000001,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -3.947131969134034,
+          "deltaY": 0.970908101115441,
+          "widthFactor": 1.9762769033629086,
+          "heightFactor": 10.567335326560096,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Tlingits",
+      "title": "Entente définitive du Conseil des Tlingits de Teslin (1995)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "KwanlinDun",
+          "outlineElementId": "Tlingits",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtTlingits",
+          "outlineElementId": "txtTlingits",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Tlingits",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 122.5,
+          "cy": 252.5500030517578,
+          "width": 20.799995422363292,
+          "height": 26.300018310546886,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1289.5453292865611,
+          "cy": 65.58487629302891,
+          "width": 72.35849987919134,
+          "height": 78.72271784963758,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 1.0405890508417306,
+          "clipYOffset": 7.815920991568882,
+          "clipWidthFactor": 0.6547619047619048,
+          "clipHeightFactor": 0.42424242424242414
+        },
+        "__sozi_auto__": {
+          "cx": 122.5,
+          "cy": 252.5500030517578,
+          "width": 20.799995422363274,
+          "height": 26.30001831054688,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 10.099998474121094,
+          "deltaY": 11.150009155273438,
+          "widthFactor": 1.2380947407141663,
+          "heightFactor": 1.6437511444091804,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -1.2774246196888726,
+          "deltaY": -1.1409843026742124,
+          "widthFactor": 1.6254629667491212,
+          "heightFactor": 11.424612114233117,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Labrador",
+      "title": "Accord sur les revendications territoriales des Inuit du Labrador (2005)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Labrador",
+          "outlineElementId": "Labrador",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtLabrador",
+          "outlineElementId": "txtLabrador",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Labrador",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 566.3620156909085,
+          "cy": 304.39359117647905,
+          "width": 112.16602147890194,
+          "height": 84.12451610917644,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 959.4084275141919,
+          "cy": 54.61066595769613,
+          "width": 80.33651033439625,
+          "height": 72.80191304828844,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 3.896754780002657,
+          "clipYOffset": 43.12436142657603,
+          "clipWidthFactor": 0.7045454545454546,
+          "clipHeightFactor": 0.34054834054834054
+        },
+        "__sozi_auto__": {
+          "cx": 566.3620156909085,
+          "cy": 304.39359117647905,
+          "width": 112.1660214789019,
+          "height": 84.12451610917643,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 3.5120401049709926,
+          "deltaY": 4.143591176479049,
+          "widthFactor": 1.3400956406250009,
+          "heightFactor": 1.50491018547773,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -3.084919653776865,
+          "deltaY": -12.488973934881997,
+          "widthFactor": 1.7914761886415889,
+          "heightFactor": 6.94384863649845,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Nunavik",
+      "title": "Accord sur les revendications territoriales des Inuit du Nunavik (2008)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Labrador",
+          "outlineElementId": "Nunavik",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtNunavik",
+          "outlineElementId": "txtNunavik",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Nunavik",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 473.5,
+          "cy": 344.04998779296875,
+          "width": 101.19998168945315,
+          "height": 159.10000610351565,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 458.38535529707053,
+          "cy": 63.421771182015526,
+          "width": 90.5816263226462,
+          "height": 89.71119475470496,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -1.0323490462291607,
+          "clipYOffset": 5.414295672558958,
+          "clipWidthFactor": 0.7132034632034632,
+          "clipHeightFactor": 0.41702741702741697
+        },
+        "__sozi_auto__": {
+          "cx": 473.5,
+          "cy": 344.04998779296875,
+          "width": 101.19998168945311,
+          "height": 159.10000610351562,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -89.3499755859375,
+          "deltaY": 43.79998779296875,
+          "widthFactor": 1.2090796526903231,
+          "heightFactor": 2.8461527122963406,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -0.4236962166013427,
+          "deltaY": -2.767887936636818,
+          "widthFactor": 1.627062611464877,
+          "heightFactor": 13.019311710433373,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Sechelte",
+      "title": "Loi sur l’autonomie gouvernementale de la bande indienne Sechelte (1986)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Sechelte",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtSechelte",
+          "outlineElementId": "txtSechelte",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Sechelte",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 101.4000015258789,
+          "cy": 398.70001220703125,
+          "width": 11.199996948242195,
+          "height": 17.000000000000007,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 227.840931115296,
+          "cy": 58.163194900279606,
+          "width": 107.4784492402705,
+          "height": 106.96562007077756,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -0.1730309413084029,
+          "clipYOffset": 36.284713174300926,
+          "clipWidthFactor": 0.6731601731601732,
+          "clipHeightFactor": 0.30014430014430016
+        },
+        "__sozi_auto__": {
+          "cx": 101.4000015258789,
+          "cy": 398.70001220703125,
+          "width": 11.199996948242195,
+          "height": 17.000000000000007,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 5.599998474121094,
+          "deltaY": 2.9000244140625,
+          "widthFactor": 1.647059483512083,
+          "heightFactor": 1.328123100104666,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -0.962550940368061,
+          "deltaY": -8.091565841907894,
+          "widthFactor": 1.8742835834815565,
+          "heightFactor": 15.523355293718286,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 5.599998474121094,
+          "deltaY": 2.9000244140625,
+          "widthFactor": 1.647059483512083,
+          "heightFactor": 1.328123100104666,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Nisgaa",
+      "title": "Accord définitif Nisga’a (2000)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Nisgaa",
+          "outlineElementId": "Nisgaa",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtNisgaa",
+          "outlineElementId": "txtNisgaa",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Nisgaa",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 106.67030826653796,
+          "cy": 319.93585018058616,
+          "width": 58.23119256500705,
+          "height": 43.64884501710898,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 0.9999999999999997
+        },
+        "Texts": {
+          "cx": 1636.0313680686954,
+          "cy": 66.86426141666026,
+          "width": 34.98178468397277,
+          "height": 107.49622927941542,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 3.607895550484773,
+          "clipYOffset": 2.936471974170168,
+          "clipWidthFactor": 0.8266090887071957,
+          "clipHeightFactor": 0.2227221597300337
+        },
+        "__sozi_auto__": {
+          "cx": 106.67030826653796,
+          "cy": 319.93585018058616,
+          "width": 58.231192565007014,
+          "height": 43.64884501710898,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 0.9999999999999997
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 0.520306740659052,
+          "deltaY": -1.1641559229294671,
+          "widthFactor": 1.780770581024085,
+          "heightFactor": 1.276281562500002,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -1.3211709938045715,
+          "deltaY": -0.07650396419911942,
+          "widthFactor": 1.7064285211694035,
+          "heightFactor": 15.60035980472242,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 10.870305214780146,
+          "deltaY": -75.86413761238259,
+          "widthFactor": 8.563416436061255,
+          "heightFactor": 3.4100611388300512,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_SahtuDene",
+      "title": "Accord sur les revendications territoriales des Sahtu Dene et Metis (1994)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "SahtuDene",
+          "outlineElementId": "SahtuDene",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtSahtuDene",
+          "outlineElementId": "txtSahtuDene",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "SahtuDene",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 187.8067658584856,
+          "cy": 212.99071736000943,
+          "width": 145.8919524668633,
+          "height": 109.41896435014748,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 307.9207427543951,
+          "cy": 68.62484116929869,
+          "width": 86.26821554537732,
+          "height": 85.439233099719,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -2.5260114043071265,
+          "clipYOffset": -1.5029116821760313,
+          "clipWidthFactor": 0.7402597402597403,
+          "clipHeightFactor": 0.27994227994227994
+        },
+        "__sozi_auto__": {
+          "cx": 187.8067658584856,
+          "cy": 212.99071736000943,
+          "width": 145.89195246686324,
+          "height": 109.41896435014739,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -3.1432463485456594,
+          "deltaY": -2.009282639990573,
+          "widthFactor": 1.7103393581163167,
+          "heightFactor": 1.7423405353336439,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 1.3054168266607462,
+          "deltaY": 1.6837782420525969,
+          "widthFactor": 1.5495834394903587,
+          "heightFactor": 12.39934448612702,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 92.00676280672778,
+          "deltaY": -182.80927043295932,
+          "widthFactor": 21.454713335109822,
+          "heightFactor": 8.548344361350567,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Inuvialuit",
+      "title": "Convention définitive des Inuvialuit (1984)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Inuvialuit",
+          "outlineElementId": "Inuvialuit",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtInuvialuit",
+          "outlineElementId": "txtInuvialuit",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Inuvialuit",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 221.3666948661419,
+          "cy": 125.9932501352814,
+          "width": 258.53625000000017,
+          "height": 193.90218750000014,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1588.46558340828,
+          "cy": 66.10161053703939,
+          "width": 67.84359371204071,
+          "height": 67.74716154991218,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.1972231998243044,
+          "clipYOffset": 6.9090426947136345,
+          "clipWidthFactor": 0.6363636363636361,
+          "clipHeightFactor": 0.5165945165945164
+        },
+        "__sozi_auto__": {
+          "cx": 221.3666948661419,
+          "cy": 125.99325013528141,
+          "width": 258.53624999999994,
+          "height": 193.90218750000003,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 0.2666887626262735,
+          "deltaY": 4.7432501352814,
+          "widthFactor": 1.5555729904396634,
+          "heightFactor": 1.1576250000000008,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -1.0211109276574462,
+          "deltaY": -0.8390556616910771,
+          "widthFactor": 1.9754276604051892,
+          "heightFactor": 9.831787617220815,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 125.56669181438409,
+          "deltaY": -269.80673765768734,
+          "widthFactor": 38.02006235912256,
+          "heightFactor": 15.148586728210363,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Marine",
+      "title": "Accord sur les revendications territoriales de région Marine Eeyou (2012)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "BaieJames",
+          "outlineElementId": "Marine",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtMarine",
+          "outlineElementId": "txtMarine",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Marine",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 479.1231557755539,
+          "cy": 362.08832985252155,
+          "width": 183.88409190924543,
+          "height": 137.91306893193408,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 377.8567082336488,
+          "cy": 83.95178304251547,
+          "width": 78.16003128973392,
+          "height": 53.72362001703003,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0.27074626328075785,
+          "clipYOffset": -51.22706022832822,
+          "clipWidthFactor": 0.9393939393939393,
+          "clipHeightFactor": 0.29292929292929293
+        },
+        "__sozi_auto__": {
+          "cx": 479.1231557755539,
+          "cy": 362.08832985252155,
+          "width": 183.8840919092454,
+          "height": 137.91306893193405,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -20.17674046468045,
+          "deltaY": -3.0616945615409463,
+          "widthFactor": 1.466379319045281,
+          "heightFactor": 0.721680086484293,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -5.709118182366808,
+          "deltaY": 17.011017661656098,
+          "widthFactor": 1.403941061617449,
+          "heightFactor": 7.796625127188031,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 383.3231527237961,
+          "deltaY": -33.711657940447196,
+          "widthFactor": 27.04179642599495,
+          "heightFactor": 10.774443097342864,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_TaanKwachan",
+      "title": "Entente définitive du Conseil des Ta'an Kwach'an (2002)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "KwanlinDun",
+          "outlineElementId": "TaanKwachan",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtTaan",
+          "outlineElementId": "txtTaan",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "TaanKwachan",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.01,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 114.01169964046099,
+          "cy": 241.06886269042465,
+          "width": 38.33314920426995,
+          "height": 28.733701216354113,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1422.108612943289,
+          "cy": 70.1926279787383,
+          "width": 87.9227219868303,
+          "height": 67.23605601302972,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -6.878346518353672,
+          "clipYOffset": -4.5716593323918495,
+          "clipWidthFactor": 0.5822510822510822,
+          "clipHeightFactor": 0.22943722943722944
+        },
+        "__sozi_auto__": {
+          "cx": 114.01169964046099,
+          "cy": 241.06886269042465,
+          "width": 38.33314920426992,
+          "height": 28.7337012163541,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 1.611698114582083,
+          "deltaY": -0.3311312060597231,
+          "widthFactor": 2.281734657200499,
+          "heightFactor": 1.795856326022132,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 3.7381295448515175,
+          "deltaY": 3.251565051492207,
+          "widthFactor": 1.9750980018101576,
+          "heightFactor": 9.757613571051932,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Selkirk",
+      "title": "Entente définitive de la Première nation de Selkirk (1997)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Selkirk",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtSelkirk",
+          "outlineElementId": "txtSelkirk",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Selkirk",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 116.98037585234766,
+          "cy": 219.91308452561077,
+          "width": 64.0297680732036,
+          "height": 47.99533205487184,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1353.500910956312,
+          "cy": 67.95336677833873,
+          "width": 117.72098639128644,
+          "height": 89.99289276882428,
+          "opacity": 1,
+          "angle": -17.16253753645543,
+          "clipped": true,
+          "clipXOffset": 2.3002349249219582,
+          "clipYOffset": 1.2335387257119226,
+          "clipWidthFactor": 0.39901473932103465,
+          "clipHeightFactor": 0.639249639249639
+        },
+        "__sozi_auto__": {
+          "cx": 116.98037585234766,
+          "cy": 219.91308452561077,
+          "width": 64.0297680732036,
+          "height": 47.99533205487184,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "Texts": {
+          "deltaX": -1.2875411921254454,
+          "deltaY": 1.0124030332215455,
+          "widthFactor": 2.665066547238179,
+          "heightFactor": 13.060193054886064,
+          "deltaAngle": -17.16253753645543
+        }
+      }
+    },
+    {
+      "frameId": "_KwanlinDun",
+      "title": "Entente définitive de la Première nation des Kwanlin Dun (2005)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "KwanlinDun",
+          "outlineElementId": "KwanlinDun",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtKwanlin",
+          "outlineElementId": "txtKwanlin",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "KwanlinDun",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -5,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 110.94532726116924,
+          "cy": 239.81809208946677,
+          "width": 27.242653464566942,
+          "height": 20.43199009842521,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0.20638373836793134,
+          "clipYOffset": -0.2358671295633501,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 890.9939502700164,
+          "cy": 68.81900557840666,
+          "width": 85.35863113371897,
+          "height": 85.13390945222805,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0.9850083017928848,
+          "clipYOffset": -4.038008499384933,
+          "clipWidthFactor": 0.7510822510822511,
+          "clipHeightFactor": 0.354978354978355
+        },
+        "__sozi_auto__": {
+          "cx": 110.94532726116924,
+          "cy": 239.81809208946677,
+          "width": 27.242653464566935,
+          "height": 20.431990098425203,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0.20638373836793134,
+          "clipYOffset": -0.2358671295633501,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -1.4546742647096664,
+          "deltaY": -1.5819018070176014,
+          "widthFactor": 1.6215862211832455,
+          "heightFactor": 1.2769993811515756,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -2.6297679917023515,
+          "deltaY": 2.34714278543791,
+          "widthFactor": 1.932420372323316,
+          "heightFactor": 12.35503447832788,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Nunavut",
+      "title": "Accord sur les revendications territoriales du Nunavut (1993)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Canada_1_",
+          "outlineElementId": "Nunavut",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtNunavut",
+          "outlineElementId": "txtNunavut",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "North_Quebec",
+          "outlineElementId": "Nunavut",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 370.68957535499084,
+          "cy": 215.7884648933215,
+          "width": 511.4274888646893,
+          "height": 383.3550064086922,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999998,
+          "clipHeightFactor": 0.9999999999999996
+        },
+        "Texts": {
+          "cx": 1029.7433297760333,
+          "cy": 67.47144515793289,
+          "width": 95.1376472895324,
+          "height": 94.19978807182139,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 4.666653294943613,
+          "clipWidthFactor": 0.6147186147186148,
+          "clipHeightFactor": 0.28715728715728717
+        },
+        "__sozi_auto__": {
+          "cx": 370.68957535499084,
+          "cy": 215.7884648933215,
+          "width": 511.42748886468877,
+          "height": 383.3550064086917,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999998,
+          "clipHeightFactor": 0.9999999999999997
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -9.940887291493539,
+          "deltaY": -67.0726190910535,
+          "widthFactor": 0.8157526793138546,
+          "heightFactor": 0.7228197150191523,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 0.1945016510333062,
+          "deltaY": 0.5310841349836721,
+          "widthFactor": 2.338252467945497,
+          "heightFactor": 13.670717543302878,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_BaieJames",
+      "title": "Convention de la Baie James et du Nord québécois (1977) et Convention du Nord Est québécois (1979)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "BaieJames",
+          "outlineElementId": "BaieJames",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtBaieJames",
+          "outlineElementId": "txtBaieJames",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "BaieJames",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 496.4842009419308,
+          "cy": 365.86895833140244,
+          "width": 341.4563801369767,
+          "height": 256.0922851027325,
+          "opacity": 1,
+          "angle": -18.188505011781814,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 56.283569404047,
+          "cy": 67.44942961045399,
+          "width": 94.93598649119413,
+          "height": 94.75485533633979,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 2.394757345726776,
+          "clipYOffset": 4.38338066434506,
+          "clipWidthFactor": 0.9025974025974028,
+          "clipHeightFactor": 0.25829725829725836
+        },
+        "__sozi_auto__": {
+          "cx": 496.4842009419308,
+          "cy": 365.86895833140244,
+          "width": 341.4563801369766,
+          "height": 256.09228510273243,
+          "opacity": 1,
+          "angle": -18.188505011781814,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -2.815695298303581,
+          "deltaY": 0.7189339173399389,
+          "widthFactor": 2.722935785201285,
+          "heightFactor": 1.3400956406250015,
+          "deltaAngle": -18.188505011781814
+        },
+        "Texts": {
+          "deltaX": -4.1825789724178435,
+          "deltaY": 0.9308672935594586,
+          "widthFactor": 1.20649387121454,
+          "heightFactor": 13.751271522734118,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Tlicho",
+      "title": "Accord Tlicho (2005)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "BaieJames",
+          "outlineElementId": "Tlicho",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtTlicho",
+          "outlineElementId": "txtTlicho",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Tlicho",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 229.3000030517578,
+          "cy": 251.4499969482422,
+          "width": 64.80001831054688,
+          "height": 52.89999389648439,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 753.6313843140916,
+          "cy": 66.49945636711381,
+          "width": 59.3136098706749,
+          "height": 64.45698178976305,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -5.1454887300506575,
+          "clipYOffset": -0.18050975557447477,
+          "clipWidthFactor": 0.643939393939394,
+          "clipHeightFactor": 0.3564213564213564
+        },
+        "__sozi_auto__": {
+          "cx": 229.3000030517578,
+          "cy": 251.4499969482422,
+          "width": 64.80001831054688,
+          "height": 52.899993896484375,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -269.99989318847656,
+          "deltaY": -113.70002746582031,
+          "widthFactor": 0.5167462053826741,
+          "heightFactor": 0.27681837889544264,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 3.2549194703416333,
+          "deltaY": 0.4851665111567769,
+          "widthFactor": 2.143461903852735,
+          "heightFactor": 19.550932865141398,
+          "deltaAngle": 0
+        }
+      }
+    },
+    {
+      "frameId": "_Maanulth",
+      "title": "Entente définitive des Premières Nations Maa-nulth (2011)",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "BaieJames",
+          "outlineElementId": "Maanulth",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtMaanulth",
+          "outlineElementId": "txtMaanulth",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "Maanulth",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 80.1500015258789,
+          "cy": 412.29998779296875,
+          "width": 38.300003051757805,
+          "height": 44.19998168945312,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1163.7793697828356,
+          "cy": 68.09319877335474,
+          "width": 61.82438892122955,
+          "height": 51.483062657084666,
+          "opacity": 1,
+          "angle": 10.045553772524045,
+          "clipped": true,
+          "clipXOffset": -2.0381106743070667,
+          "clipYOffset": 1.0116408267463242,
+          "clipWidthFactor": 0.8712121212121213,
+          "clipHeightFactor": 0.6623376623376623
+        },
+        "__sozi_auto__": {
+          "cx": 80.1500015258789,
+          "cy": 412.29998779296875,
+          "width": 38.300003051757805,
+          "height": 44.199981689453104,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": -419.14989471435547,
+          "deltaY": 47.14996337890625,
+          "widthFactor": 0.3054224637451905,
+          "heightFactor": 0.23129241380301546,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": 1.5713619703356017,
+          "deltaY": 1.1526393861477118,
+          "widthFactor": 1.4050997482097625,
+          "heightFactor": 7.471464875404577,
+          "deltaAngle": 10.045553772524045
+        }
+      }
+    },
+    {
+      "frameId": "_Tlaamin",
+      "title": "Entente définitive de la Premère nation Tla'amin",
+      "timeoutMs": 0,
+      "timeoutEnable": false,
+      "transitionDurationMs": 1000,
+      "showInFrameList": true,
+      "showFrameNumber": true,
+      "layerProperties": {
+        "GFX": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Tlaamin",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "Texts": {
+          "link": false,
+          "referenceElementId": "txtTlaamin",
+          "outlineElementId": "txtTlaamin",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "Tlaamin",
+          "outlineElementId": "Tlaamin",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -0.1,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "GFX": {
+          "cx": 96.00243727431162,
+          "cy": 395.71809576595103,
+          "width": 27.81547685462474,
+          "height": 20.849881048702716,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        },
+        "Texts": {
+          "cx": 1534.374297624134,
+          "cy": 75.86254856933628,
+          "width": 91.32472541433332,
+          "height": 84.11936156718467,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": -2.1213504855035095,
+          "clipYOffset": -29.72070500682522,
+          "clipWidthFactor": 0.512987012987013,
+          "clipHeightFactor": 0.27128427128427124
+        },
+        "__sozi_auto__": {
+          "cx": 96.00243727431162,
+          "cy": 395.71809576595103,
+          "width": 27.81547685462474,
+          "height": 20.849881048702716,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": false,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 1,
+          "clipHeightFactor": 1
+        }
+      },
+      "cameraOffsets": {
+        "GFX": {
+          "deltaX": 0.20243422255380494,
+          "deltaY": -0.08189202701771592,
+          "widthFactor": 4.0905140558106,
+          "heightFactor": 1.6288946267774451,
+          "deltaAngle": 0
+        },
+        "Texts": {
+          "deltaX": -0.5810246414910125,
+          "deltaY": 9.362983444824565,
+          "widthFactor": 2.7478995893358404,
+          "heightFactor": 12.207798504081222,
+          "deltaAngle": 0
+        },
+        "__sozi_auto__": {
+          "deltaX": 0.20243422255380494,
+          "deltaY": -0.08189202701771592,
+          "widthFactor": 4.0905140558106,
+          "heightFactor": 1.6288946267774451,
+          "deltaAngle": 0
+        }
+      }
+    }
+  ],
+  "elementsToHide": [],
+  "selectedFrames": [
+    "_GwichinVuntut"
+  ],
+  "selectedLayers": [
+    "GFX",
+    "Texts",
+    "__sozi_auto__"
+  ],
+  "editableLayers": [
+    "Texts"
+  ]
+}

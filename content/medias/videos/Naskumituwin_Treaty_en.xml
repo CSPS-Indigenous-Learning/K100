@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" id="p0" end="3.1s">'Treaty' in Cree is 'Naskumituwin,'</p>
+      <p begin="3.1s" id="p1" end="7.1s">an oral agreement.</p>
+      <p begin="7.1s" id="p2" end="13.1s">And our agreements were always spoken.</p>
+      <p begin="13.1s" id="p3" end="18.1s">For George Spence, the core of treaty was 'wiichihiiwaawin.'</p>
+      <p begin="18.1s" id="p4" end="21.1s">To help one another.</p>
+      <p begin="21.1s" id="p5" end="22.1s">And so, we the commissioners--</p>
+      <p begin="22.1s" id="p6" end="25.1s">He was there for the making of Treaty Nine,</p>
+      <p begin="25.1s" id="p7" end="26.1s">where the Cree were told--</p>
+      <p begin="26.1s" id="p8" end="28.1s">We will honour this agreement together,</p>
+      <p begin="28.1s" id="p9" end="32.1s">for as long as the sun shines and the waters flow.</p>
+      <p begin="32.1s" id="p10" end="34.1s">The Cree made their mark because they were assured</p>
+      <p begin="34.1s" id="p11" end="36.1s">that the land would be shared,</p>
+      <p begin="36.1s" id="p12" end="40.1s">and they would always be able to harvest what they needed.</p>
+      <p begin="40.1s" id="p13" end="44.1s">♪</p>
+      <p begin="44.1s" id="p14" end="47.1s">George Spence was my great-grandfather.</p>
+      <p begin="47.1s" id="p15" end="48.1s">In his life, he saw many promises</p>
+      <p begin="48.1s" id="p16" end="51.1s">of the Treaty go unfulfilled.</p>
+      <p begin="51.1s" id="p17" end="55.1s">Treaties were essential to the creation of Canada.</p>
+      <p begin="55.1s" id="p18" end="56.1s">First Nations still fight for the agreements to be honoured.</p>
+    </div>
+  </body>
+</tt>

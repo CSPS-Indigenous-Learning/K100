@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1676 433.6" style="enable-background:new 0 0 1676 433.6;" xml:space="preserve">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Asap|Roboto');
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;stroke:#231F20;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0,4;}
+	.st2{fill:none;stroke:#231F20;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#582012;}
+	.st4{fill:#D3D3D4;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'Asap-Bold',ASAP,Sans-Serif;}
+	.st7{font-size:45.0039px;}
+	.st9{fill:#582012;}
+	.st10{font-family:'Roboto-Regular',Roboto,Sans-Serif;}
+	.st11{font-size:41.8924px;}
+	#Eng,#Fra{display:none;}
+	#Eng:target,#Fra:target{display:inline;}
+</style>
+<g id="Layer_1">
+	<title>Infographics-ChildWelfare</title>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="874.7" y="13.8" width="2" height="397"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st0">
+				<line class="st1" x1="875.7" y1="18.8" x2="875.7" y2="407.8"/>
+				<path class="st2" d="M875.7,409.8L875.7,409.8 M875.7,14.8L875.7,14.8"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path class="st3" d="M1487.5,216.8l-88.4-166.4c27.1-14.8,57.5-22.3,88.4-22.1V216.8z"/>
+		<path class="st4" d="M1487.5,216.8V28.4c104.1,0,188.5,84.4,188.5,188.5s-84.4,188.5-188.5,188.5S1299,321,1299,216.9
+			c0-72,36.4-132.6,100-166.4L1487.5,216.8z"/>
+		<circle class="st5" cx="1487.5" cy="216.8" r="94.8"/>
+		<text transform="matrix(1 0 0 1 1449.0217 236.0423)" class="st3 st6 st7">7.7%</text>
+	</g>
+	<g>
+		<path class="st4" d="M188.3,216.8l-23,187.1C62,391-11.3,296.9,1.4,193.6C13.1,99.3,93.2,28.5,188.3,28.4V216.8z"/>
+		<path class="st3" d="M188.3,216.8V28.4c104.1,0,188.5,84.4,188.5,188.5s-84.4,188.5-188.5,188.5l0,0c-7.7,0.1-15.4-0.4-23-1.4
+			L188.3,216.8z"/>
+		<circle class="st5" cx="188.3" cy="216.8" r="94.8"/>
+		<text transform="matrix(1 0 0 1 131.9476 236.1772)" class="st3 st6 st7">52.2%</text>
+	</g>
+</g>
+<g id="Eng" class="st8">
+	<text transform="matrix(1 0 0 1 902.2559 229.0424)" class="st9 st10 st11">Indigenous children</text>
+	<text transform="matrix(1 0 0 1 430.7788 229.0425)" class="st9 st10 st11">Children in foster care</text>
+</g>
+<g id="Fra" class="st8">
+	<text transform="matrix(1 0 0 1 902.2559 229.0426)" class="st9 st10 st11">Enfants autochtones</text>
+	<text transform="matrix(1 0 0 1 430.7788 203.9074)" class="st12"><tspan x="0" y="0" class="st3 st10 st11">Enfants en famille </tspan><tspan x="0" y="50.3" class="st3 st10 st11">d’accueil</tspan></text>
+</g>
+<script>
+	var lang=window.location.hash;
+	console.log(lang);
+</script>
+</svg>
